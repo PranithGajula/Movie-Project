@@ -71,9 +71,7 @@ A dynamic and interactive movie information website built with PHP and MySQL tha
    - Place the project in your web server's root directory
    - For XAMPP: `C:\xampp\htdocs\xampp\movie-project`
 
-5. **Access the Website**
-   - Main Website: `http://localhost/xampp/movie-project/index.php`
-   - Admin Login: `http://localhost/xampp/movie-project/admin.php`
+
 
 ## 👥 Default Admin Credentials
 
