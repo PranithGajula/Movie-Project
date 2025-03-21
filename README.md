@@ -56,7 +56,7 @@ A dynamic and interactive movie information website built with PHP and MySQL tha
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/movie-project.git
+   git clone https://github.com/PranithGajula/Movie-Project
    ```
 
 2. **Database Setup**
